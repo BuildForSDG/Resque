@@ -1,0 +1,2 @@
+# Resque
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/38068a62114b4d01a5ee04370a4d7eec)](https://app.codacy.com/gh/BuildForSDG/Resque?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Resque&utm_campaign=Badge_Grade_Settings)
